@@ -1,4 +1,8 @@
 hi aws
 iam yamuna
 iam in bangulore
+<<<<<<< HEAD
 yamuna
+=======
+Aws
+>>>>>>> 7fdd576a90ceef293cb72ddfa5e65d1bcf5de860
